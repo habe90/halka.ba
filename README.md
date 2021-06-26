@@ -5,3 +5,7 @@ Ovaj projekat je zamišljen da bude OpenSource (otvoreni kod , tj besplatan u po
 Kod je otvoren , za sve one koji žele da se uključe i daju svoj doprinos ovom projektu.
 
 Za dodatne info možete me kontaktirati preko Email-a : habetech@gmail.com
+
+
+
+Trenutan napredak rada možete pregledati uživo na ovom <a href="http://185.50.56.145/hadis/">LINKU</a>.
