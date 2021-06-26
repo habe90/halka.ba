@@ -1,0 +1,219 @@
+@font-face{
+	font-family:'lato';
+	src:url('lato.ttf');
+}
+
+@font-face{
+	font-family:'arabic';
+	src:url('quran.ttf');
+}
+
+body{
+	font-family: lato;
+	background-color: white;
+	margin: 0px auto;
+	padding: 10px;
+	padding-top: 70px;
+}
+
+#thecontent{
+	display: none;
+}
+
+#appbar{
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	height: 70px;
+	padding-left: 10px;
+	background-color: #bc2b2b;
+	color: white;
+	border-bottom: 1px solid white;
+}
+
+.qf{
+	font-size: 30px;
+}
+
+.zk{
+	font-size: 12px;
+	padding-left: 10px;
+}
+
+.menubutton{
+	position: fixed;
+	top: 0;
+	right: 0;
+	padding: 15px;
+}
+
+#navigation{
+	position: fixed;
+	background-color: #bc2b2b;
+	height: 60%;
+	top: 0;
+	left: 0;
+	right: 0;
+	display: none;
+	padding: 10px;
+	padding-top: 70px;
+	overflow-y: auto;
+	border-bottom: 20px solid #bc2b2b;
+	color: white;
+}
+
+#settings{
+	position: fixed;
+	background-color: #bc2b2b;
+	height: 60%;
+	top: 0;
+	left: 0;
+	right: 0;
+	display: none;
+	padding: 10px;
+	padding-top: 70px;
+	overflow-y: auto;
+	border-bottom: 20px solid #bc2b2b;
+	color: white;
+}
+
+select{
+	width: 100%;
+	padding: 5px;
+	font-size: 14px;
+	border: 1px solid white;
+	text-align: center;
+}
+
+input{
+	border: 1px solid black;
+}
+
+button{
+	padding: 5px;
+	font-size: 14px;
+	border: 1px solid white;
+	border-radius: 5px;
+	background-color: white;
+}
+
+button:hover{
+	border: 1px solid grey;
+	padding: 5px;
+}
+
+.surahbar{
+	position: fixed;
+	font-size: 17px;
+	background-color: white;
+	padding: 10px;
+	margin-top: 5px;
+	border-radius: 10px;
+	left: 10px;
+}
+
+.searchInput{
+	width: 100%; 
+	max-width: 300px;
+	font-size: 17px;
+	padding: 10px;
+}
+
+.searchSelect{
+	width: 100%; 
+	max-width: 320px;
+}
+
+.versenum{
+	width: 160px;
+	padding: 5px;
+	background-color: white;
+	border-radius: 25px;
+	display: block;
+	margin: auto;
+}
+
+.quran{
+	margin: auto;
+	max-width: 1080px;
+	padding: 5px;
+}
+
+.separator{
+	border-bottom: 1px solid white;
+	padding: 5px;
+}
+
+.qurantext{
+	font-family: arabic;
+	font-size: 23px;
+	line-height: 70px;
+}
+
+.translationtext{
+	font-size: 17px;
+	margin-bottom: 60px;
+	line-height: 30px;
+}
+
+a{
+	color: inherit;
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+.surahbutton{
+	margin: 5px;
+	padding: 10px;
+	max-width: 720px;
+	display: inline-block;
+	text-align: center;
+	font-family: lato;
+	font-size: 14px;
+	border-radius: 10px;
+	background-color: white;
+	-webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);	
+}
+
+.surahbutton:active{
+	color: white;
+	background-color: black;
+}
+
+.lowerlinks{
+	margin-top: 25px;
+	padding-top: 25px;
+	text-align: center;
+}
+
+.nextbut{
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	padding: 10px;
+}
+
+.prevbut{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	padding: 10px;
+}
+
+.prevbut{
+	
+} 
+
+.footer{
+	margin-top: 85px;
+	margin-bottom: 35px;
+	text-align: center;
+	font-size: 12px;
+	color: grey;
+}
