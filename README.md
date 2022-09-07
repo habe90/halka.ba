@@ -8,4 +8,4 @@ Za dodatne info možete me kontaktirati preko Email-a : habetech@gmail.com
 
 
 
-Trenutan napredak rada možete pregledati uživo na ovom <a href="http://185.50.56.145/hadis/">LINKU</a>.
+Trenutan napredak rada možete pregledati uživo na ovom <a href="https://scriptplus.info/halka">LINKU</a>.
